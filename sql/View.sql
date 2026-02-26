@@ -1,4 +1,4 @@
--- 5. Create a small view for quick reporting
+-- Create a small view for quick reporting
 CREATE OR REPLACE VIEW v_recent_prices AS
 SELECT 
     category,

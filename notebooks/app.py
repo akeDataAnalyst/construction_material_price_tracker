@@ -57,7 +57,7 @@ def load_data():
 df, filename = load_data()
 
 if df is None:
-    st.error("Could not load data. Check data/ folder.")
+    st.error("Could not load data. Check data/.")
     st.stop()
 
 # Title

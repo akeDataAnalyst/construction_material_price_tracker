@@ -1,4 +1,5 @@
 # Construction Materials Price Tracker Dashboard
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://constructionpricetracker-etgbenjkid7nlhcatckrsx.streamlit.app/)
 
 A full-stack Python portfolio project demonstrating web scraping, data cleaning, database integration, report generation, machine learning validation, and an interactive Streamlit dashboard — built for tracking real-time construction and interior material prices in Ethiopia.
 

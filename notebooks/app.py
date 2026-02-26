@@ -41,7 +41,7 @@ st.markdown("""
 @st.cache_data
 def load_data():
     DATA_DIR = Path("data")
-    patterns = ["master_prices_ml_flagged_*.csv", "master_prices_cleaned_*.csv"]
+    patterns = ["master_prices_ml_flagged_20260218.csv", "master_prices_cleaned_20260218.csv"]
     candidates = []
     for pat in patterns:
         candidates.extend(DATA_DIR.glob(pat))
